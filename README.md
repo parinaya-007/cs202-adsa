@@ -37,3 +37,6 @@ and using these solving Scheduler problem.
 
 Assignment 06
 =============
+
+Created header files for Priority Queues. Implemented CPU Interrupt Service Architecture(ISA)
+using minimum priority queue library.
